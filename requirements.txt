@@ -1,3 +1,6 @@
-google-genai
+streamlit
+pandas
 matplotlib
 seaborn
+google-generativeai
+sqlite3-binary

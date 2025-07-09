@@ -1,4 +1,3 @@
 google-genai
 matplotlib
-sqlite3
 seaborn
